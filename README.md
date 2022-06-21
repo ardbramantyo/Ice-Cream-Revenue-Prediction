@@ -7,7 +7,7 @@ The dataset itself, consist of 500+ data sample and 2 fields:
 
 ![image](https://user-images.githubusercontent.com/37673834/174691489-4bd1d9f9-a59f-4cde-8b28-0247aa9e7cad.png)
 
-## Ice Cream Revenue Prediction
+## Reference:
 1. https://seaborn.pydata.org/generated/seaborn.jointplot.html
 2. https://seaborn.pydata.org/generated/seaborn.pairplot.html
 3. https://seaborn.pydata.org/generated/seaborn.lmplot.html

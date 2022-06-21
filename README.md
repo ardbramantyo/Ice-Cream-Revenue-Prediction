@@ -5,4 +5,4 @@ The dataset itself, consist of 500+ data sample and 2 fields:
  - Independent var (X): outside air temperature (deg C)
  - Dependent var (Y): Overall daily revenue ($)
 
-![image](https://user-images.githubusercontent.com/37673834/174691143-b15173e4-c40e-407e-be2b-d212ced760fc.png)
+![image](https://user-images.githubusercontent.com/37673834/174691309-bd3a21a5-8515-4958-9f72-9114d1969ba3.png)

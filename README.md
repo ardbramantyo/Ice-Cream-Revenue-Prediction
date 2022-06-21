@@ -11,8 +11,7 @@ The dataset itself, consist of 500+ data sample and 2 fields:
  - Dependent var (Y): Overall daily revenue ($)
 
 ![image](https://user-images.githubusercontent.com/37673834/174691489-4bd1d9f9-a59f-4cde-8b28-0247aa9e7cad.png)
-![image](https://user-images.githubusercontent.com/37673834/174700364-3f7b32e8-e647-464b-bd6c-e890e0167b5b.png)
-
+![image](https://user-images.githubusercontent.com/37673834/174700419-f44ab3e2-28c0-424d-a47a-78b0be1658cd.png)
 
 ## Reference:
 1. https://seaborn.pydata.org/generated/seaborn.jointplot.html
